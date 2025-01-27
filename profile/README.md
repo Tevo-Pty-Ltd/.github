@@ -9,9 +9,8 @@ You will find all code developed internally by the Tevo Data team. Please feel f
 1. Essaivani Govender
 2. Jared Davey
 3. Pratish Neerputh
-4. Shraddha Neerputh
-5. Ryan Williams
-6. Zilungile Mzimela
+4. Ryan Williams
+5. Zilungile Mzimela
 
 ## Notes
 1. You are responsible for your repository as the creator of it. 
