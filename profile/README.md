@@ -11,6 +11,7 @@ You will find all code developed internally by the Tevo Data team. Please feel f
 3. Pratish Neerputh
 4. Ryan Williams
 5. Zilungile Mzimela
+6. Karen Osborne
 
 ## Notes
 1. You are responsible for your repository as the creator of it. 
