@@ -4,7 +4,7 @@ Hi,
 You will find all code developed internally by the Tevo Data team. Please feel free to browse the repositories and contribute code. You are more than welcome to fork a repository and submit pull requests. You may also create repositories with your code
 
 
-## Members of the Data Team (alphabetical order)
+## Members of the Data Team
 
 1. Essaivani Govender
 2. Jared Davey
@@ -12,6 +12,7 @@ You will find all code developed internally by the Tevo Data team. Please feel f
 4. Ryan Williams
 5. Zilungile Mzimela
 6. Karen Osborne
+7. Louis Kruger
 
 ## Notes
 1. You are responsible for your repository as the creator of it. 
