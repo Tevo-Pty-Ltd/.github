@@ -1,6 +1,6 @@
 # Welcome to Tevo's GitHub Repository
 
-# [NOTICE]: If you are seeing this page and are not able to see the repositories - please ensure you are signed in first.
+# [NOTICE]: If you are seeing this page and are not able to see the "Repositories" tab above - please ensure you are signed in first.
 
 Hi,
 You will find all code developed internally by the Tevo Data team. Please feel free to browse the repositories and contribute code. You are more than welcome to fork a repository and submit pull requests. You may also create repositories with your code
